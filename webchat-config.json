@@ -3,7 +3,7 @@
   "clientId": "6860c9de-3af1-40c8-8d4a-650a8124b66a",
   "hostUrl": "https://cdn.botpress.cloud/webchat/v2.4",
   "messagingUrl": "https://messaging.botpress.cloud",
-  "stylesheet": "https://raw.githubusercontent.com/Sinda271/FreeHost/refs/heads/main/custom-style.css",
+  "stylesheet": "https://raw.githubusercontent.com/Sinda271/FreeHost/main/custom-style.css",
   "showPoweredBy": false,
   "enableReset": true,
   "composerPlaceholder": "Ask me anything...",
