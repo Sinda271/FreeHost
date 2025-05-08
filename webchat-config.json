@@ -1,16 +1,16 @@
 {
   "botId": "b644bef9-295f-40e7-8d5c-7d7dd189d899",
-  "clientId": "6860c9de-3af1-40c8-8d4a-650a8124b66a",
-  "hostUrl": "https://cdn.botpress.cloud/webchat/v2.4",
-  "messagingUrl": "https://messaging.botpress.cloud",
-  "stylesheet": "https://raw.githubusercontent.com/Sinda271/FreeHost/main/custom-style.css",
-  "showPoweredBy": false,
-  "enableReset": true,
-  "composerPlaceholder": "Ask me anything...",
-  "containerWidth": "100%",
-  "layoutWidth": "400px",
-  "hideWidget": false,
-  "showCloseButton": true,
-  "enableTranscriptDownload": false,
-  "useSessionStorage": false
+  "configuration": {
+    "website": {},
+    "email": {},
+    "phone": {},
+    "termsOfService": {},
+    "privacyPolicy": {},
+    "color": "#5eb1ef",
+    "variant": "soft",
+    "themeMode": "light",
+    "fontFamily": "inter",
+    "radius": 1
+  },
+  "clientId": "6860c9de-3af1-40c8-8d4a-650a8124b66a"
 }
