@@ -10,7 +10,8 @@
     "variant": "soft",
     "themeMode": "light",
     "fontFamily": "inter",
-    "radius": 1
+    "radius": 1,
+    "additionalStylesheetUrl": "https://files.bpcontent.cloud/2025/05/08/19/20250508195538-OLCJGI1M.css"
   },
   "clientId": "6860c9de-3af1-40c8-8d4a-650a8124b66a"
 }
